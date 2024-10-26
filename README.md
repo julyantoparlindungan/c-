@@ -2,6 +2,6 @@
 4
 <import href="https://www.google.co.id/"></import>
 <footer>
-     <link rel="import" href="https://github.com/julyantoparlindungan/c-/commit/2ad6ece3b20e9a47cde60aa8384d90692bbcbb69">
-     <button link="https://www.google.co.id/">Submit</button>
-</footer>
+     <link rel="import" href="https://github.com/julyantoparlindungan/c-/commit/2ad6ece3b20e9a47cde60aa8384d90692bbcbb69"></footer>
+     <footer><col><click onpointerover="GamepadButton"><button link="https://www.google.co.id/">Submit</button></click></col></footer>
+
